@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Azoz",
+
+      "class": "n32",
+      "address": "Tashkent",
+      "teacher": "Sultonqul"
+    }
+  ],
+  "teacher": [
+    {
+      "id": 1,
+      "name": "Sultonqul",
+      "master": "Front End devoloper",
+      "address": "Tashkent"
+    }
+  ]
+}
